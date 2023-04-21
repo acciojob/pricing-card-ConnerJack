@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+.card {
+	width: 200px;
+	height:auto;
+	background-color: rgb(232,232,232);
+	display:flex;
+	flex-direction: column;
+	padding:20px;
+	justify-content: center;
+	align-content: center;
+}
+
+body {
+	text-align:center;
+}
+
+
+img {
+	width:200px;
+	height: 300px;	
+}
+
+
+button {
+	background-color: rgb(236,108,97);
+	color:white;
+	padding: 10px;
+	border:none;
+	border-radius: 10px;
+
+
+}
